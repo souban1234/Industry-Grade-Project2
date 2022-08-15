@@ -1,0 +1,7 @@
+INTRODUCTION:
+
+When consumers are not happy with some aspect of a business, they choose to reach out to the customer service and might raise a complaint. Businesses try their best to resolve the complaints that they receive to remain their good position in the market.
+
+Unhappy customers might raise follow up questions/complaints about the resolution provided, and this is detrimental to the business as it points to systemic failures in the customer support division and which could lead to a poor brand image of the company. Disputed complaints which are being resolved could be a critical dataset to derive essential learnings for any business. Predicting whether a complaint resolution will be accepted or rejected by a consumer can enable a business to proactively look at complaints which might be disputed and hence save unnecessary escalation as well as their reputation. Complaints which have a higher potential to be disputed concerning, to that particular product, the customer support agent can be trained to pay more attention to certain types of complaints.
+
+The Consumer Financial Protection Bureau (CFPB) in the United States receives several consumers’ complaints about the dealings of financial companies. It sends these complaints about their products and services to them for eliciting a response. The CFPB makes sure that these complaints are published here soon after the company responds or after 15 days since sending the complaint to the company.
